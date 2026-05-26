@@ -1,0 +1,41 @@
+team,date,opponent,gf,ga,result,goal_difference,result_clean,points
+Cape Verde,2025-10-13,sz Eswatini,3.0,0.0,W,3.0,Win,3
+Cape Verde,2025-10-08,ly Libya,3.0,3.0,D,0.0,Draw,1
+Cape Verde,2025-09-09,cm Cameroon,1.0,0.0,W,1.0,Win,3
+Cape Verde,2025-09-04,mu Mauritius,2.0,0.0,W,2.0,Win,3
+Cape Verde,2025-06-08,ge Georgia,1.0,1.0,D,0.0,Draw,1
+Cape Verde,2025-05-29,my Malaysia,1.0,1.0,D,0.0,Draw,1
+Cape Verde,2025-03-25,ao Angola,2.0,1.0,W,1.0,Win,3
+Cape Verde,2025-03-20,mu Mauritius,1.0,0.0,W,1.0,Win,3
+Cape Verde,2024-11-19,mr Mauritania,0.0,1.0,L,-1.0,Loss,0
+Cape Verde,2024-11-15,eg Egypt,1.0,1.0,D,0.0,Draw,1
+Saudi Arabia,2026-03-31,rs Serbia,1.0,2.0,L,-1.0,Loss,0
+Saudi Arabia,2026-03-27,eg Egypt,0.0,4.0,L,-4.0,Loss,0
+Saudi Arabia,2025-11-18,dz Algeria,0.0,2.0,L,-2.0,Loss,0
+Saudi Arabia,2025-11-14,ci Côte d'Ivoire,1.0,0.0,W,1.0,Win,3
+Saudi Arabia,2025-10-14,iq Iraq,0.0,0.0,D,0.0,Draw,1
+Saudi Arabia,2025-10-08,id Indonesia,3.0,2.0,W,1.0,Win,3
+Saudi Arabia,2025-09-08,cz Czechia,1.0,1.0,D,0.0,Draw,1
+Saudi Arabia,2025-09-04,mk N. Macedonia,2.0,1.0,W,1.0,Win,3
+Saudi Arabia,2025-06-28,mx Mexico,0.0,2.0,L,-2.0,Loss,0
+Saudi Arabia,2025-06-22,tt Trin & Tobago,1.0,1.0,D,0.0,Draw,1
+Spain,2026-03-31,eg Egypt,0.0,0.0,D,0.0,Draw,1
+Spain,2026-03-27,rs Serbia,3.0,0.0,W,3.0,Win,3
+Spain,2025-11-18,tr Türkiye,2.0,2.0,D,0.0,Draw,1
+Spain,2025-11-15,ge Georgia,4.0,0.0,W,4.0,Win,3
+Spain,2025-10-14,bg Bulgaria,4.0,0.0,W,4.0,Win,3
+Spain,2025-10-11,ge Georgia,2.0,0.0,W,2.0,Win,3
+Spain,2025-09-07,tr Türkiye,6.0,0.0,W,6.0,Win,3
+Spain,2025-09-04,bg Bulgaria,3.0,0.0,W,3.0,Win,3
+Spain,2025-06-05,fr France,5.0,4.0,W,1.0,Win,3
+Spain,2025-03-20,nl Netherlands,2.0,2.0,D,0.0,Draw,1
+Uruguay,2026-03-31,dz Algeria,0.0,0.0,D,0.0,Draw,1
+Uruguay,2026-03-27,eng England,1.0,1.0,D,0.0,Draw,1
+Uruguay,2025-11-18,us United States,1.0,5.0,L,-4.0,Loss,0
+Uruguay,2025-11-15,mx Mexico,0.0,0.0,D,0.0,Draw,1
+Uruguay,2025-10-13,uz Uzbekistan,2.0,1.0,W,1.0,Win,3
+Uruguay,2025-10-10,do Dominican Rep.,1.0,0.0,W,1.0,Win,3
+Uruguay,2025-09-09,cl Chile,0.0,0.0,D,0.0,Draw,1
+Uruguay,2025-09-04,pe Peru,3.0,0.0,W,3.0,Win,3
+Uruguay,2025-06-10,ve Venezuela,2.0,0.0,W,2.0,Win,3
+Uruguay,2025-06-05,py Paraguay,0.0,2.0,L,-2.0,Loss,0
